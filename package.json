@@ -1,0 +1,12 @@
+{
+    "name": "js",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts" : {
+        "http": "http-server"  
+    },
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    }
+}
